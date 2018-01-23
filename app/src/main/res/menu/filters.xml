@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/filters_distance"
+        android:icon="@drawable/ic_person_add_white_24dp"
+        android:title="@string/filter_distance" />
+
+    <item
+        android:id="@+id/filters_favorite"
+        android:icon="@drawable/ic_map_white_24dp"
+        android:title="@string/filter_favorite" />
+
+    <item
+        android:id="@+id/filters_price"
+        android:icon="@drawable/ic_person_add_white_24dp"
+        android:title="@string/filter_price" />
+
+</menu>

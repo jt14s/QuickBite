@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuickBite</string>
+    <string name="launch_description">"Take the hassle out of finding good food"</string>
+    <string name="launch_view_search">"Search"</string>
+    <string name="launch_view_cancel">"Cancel"</string>
+
+    <string-array name="mile_choices">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+    <string name="title_activity_map">Map</string>
+
+    <!-- map options -->
+    <string name="title_route">Route</string>
+    <string name="title_invite">Invite</string>
+
+    <!-- filter options -->
+    <string name="filter_favorite">Favorites</string>
+    <string name="filter_distance">Distance</string>
+    <string name="filter_price">Price</string>
+
+</resources>
