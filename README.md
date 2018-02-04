@@ -9,7 +9,7 @@ __Description__: This application allows users to select a radius, and then show
 
 __Notes__: As is, the application will not work. It requires valid Google Places and Google Maps API keys. These, along with their location files, have been removed for security reasons. Below can be found examples of what the application looks like.
 
-__TODO__: 
+__Future Features__: 
 * Add filters to the restaurant list screen.
 * Add more than 20 restaurants to search.
 * Add internal restaurant route functionality.
